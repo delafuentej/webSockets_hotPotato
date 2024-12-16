@@ -1,6 +1,6 @@
-# Hot Potato
+# webSockets_hotPotato Project
 
-A WebSockets application demo.
+A WebSockets application demo. Project realized in the Codecademy course "Learn WebSockets".
 
 ## Rules
 
