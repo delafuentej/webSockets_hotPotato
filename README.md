@@ -23,24 +23,26 @@ Project realized in the Codecademy course *"Learn WebSockets"*.
 
     1. Clone the repository:
 
-    ```bash
-    git clone https://github.com/delafuentej/webSockets_hotPotato.git
-    ```
+        ```bash
+        git clone https://github.com/delafuentej/webSockets_hotPotato.git
+        ```
     2. Install the dependencies:
-    ```bash
-    npm install
-    ```
+
+        ```bash
+        npm install
+        ```
     3. Run the development server:
-    ```bash
-    npm run dev
-    ```
-    ---
+
+        ```bash
+        npm run dev
+        ```
+---
 ##  ✅ Requirements
 
     - Node.js (latest LTS version recommended)
     - npm (bundled with Node.js)
 
-    ---
+---
 ##  🪪 Contributing
 
 Contributions are welcome! If you have suggestions for improvements or new features, feel free to open an issue or submit a pull request.
